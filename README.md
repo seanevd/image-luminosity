@@ -24,18 +24,18 @@ imgLum(image, callback, [{sx, sy, sWidth, sHeight}]);
 ```
 
 ## Parameters
-**image:** Directory to image being analyzed.<br/>
-**callback:** Needed because of async nature of image analysis.
+`image:` Directory to image being analyzed.<br/>
+`callback:` Needed because of async nature of image analysis.
 ### Dimensions
 _Leave blank if whole image is being analyzed_
-**sx:** Starting X position.
-**sy:** Startng Y position.
-**sWidth:** Width of desired area to be analyzed.
-**sHeight:** Height of desired area to be analyzed.
+`sx:` Starting X position.<br/>
+`sy:` Startng Y position.<br/>
+`sWidth:` Width of desired area to be analyzed.<br/>
+`sHeight:` Height of desired area to be analyzed.
 
 ## Return Values
-**value.brightness:** Brightness level of image.
-**value.opacity:** Opacity level of image.
-**value.r:** Brightness of red levels in the image.
-**value.g:** Brightness of green levels in the image.
-**value.b:** Brightness of blue levels in the image.
+`value.brightness:` Brightness level of image.<br/>
+`value.opacity:` Opacity level of image.<br/>
+`value.r:` Brightness of red levels in the image.<br/>
+`value.g:` Brightness of green levels in the image.<br/>
+`value.b:` Brightness of blue levels in the image.

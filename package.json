@@ -1,0 +1,39 @@
+{
+  "name": "image-luminosity",
+  "version": "0.1.0",
+  "description": "Check luminosity/brightness of an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanevd/image-luminosity.git"
+  },
+  "keywords": [
+    "luminosity",
+    "check",
+    "image",
+    "luminosity",
+    "background",
+    "check",
+    "brightness",
+    "check",
+    "image",
+    "brightness",
+    "lightness",
+    "check",
+    "image",
+    "lightness",
+    "image",
+    "opacity",
+    "opacity",
+    "check"
+  ],
+  "author": "Sean Duncan <seaneduncan@gmail.com> (http://seanduncan.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanevd/image-luminosity/issues"
+  },
+  "homepage": "https://github.com/seanevd/image-luminosity"
+}

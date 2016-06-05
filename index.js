@@ -1,4 +1,4 @@
-function(imageSrc, dimensions, callback) {
+function(imageSrc, callback, dimensions) {
     var img = document.createElement("img");
     img.src = imageSrc;
     img.style.display = "none";

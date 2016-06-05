@@ -14,7 +14,8 @@ imgLum(image, function(value) {
     }, {sx: 120,
         sy: 120,
         sWidth: 300,
-        sHeight: 300 });
+        sHeight: 300
+    });
 ```
 
 ## Syntax
